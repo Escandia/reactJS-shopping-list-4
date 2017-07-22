@@ -1,0 +1,45 @@
+.App{
+  background-image: url('http://szczecin-nowosci.net.pl/wp-content/uploads/2015/07/3.jpg');
+  background-size: contain;
+  width: 100%;
+  background-position: fixed;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.App-header{
+  text-align: center;
+  font-size: 50px;
+}
+.App-intro{
+  text-align: center;
+}
+
+.img-responsive {
+  width: 500px;
+  border-radius: 50px;
+
+}
+
+.container-item{
+  width: 100%;
+  justify-content: flex-start;
+  display: flex;
+}
+
+.button{
+  width: 60px;
+  height: 25px;
+}
+
+.margin{
+  margin: 5px;
+
+}
+
+.input{
+  width: 60px;
+  height: 25px;
+  font-size: 20px;
+}
